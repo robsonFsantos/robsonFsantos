@@ -7,5 +7,4 @@
 *   :zap:  O mundo da programação de computadores é meu grande desafio recente.
 ***
 ##  FAÇA CONTATO:
-*  f.santos.rob@gmail.com
 *  https://www.instagram.com/conversar.com.robson/
